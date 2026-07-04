@@ -72,8 +72,7 @@ Final-year E&TC Engineering student building agentic AI systems and full stack w
 ## Featured Projects
 
 <details open>
-<summary><b>🧠 Netra AI — Agentic RAG Chatbot</b></summary>
-<br/>
+<summary><b><img src="https://raw.githubusercontent.com/Somyabhawsar45/Somyabhawsar45/main/logo.png" width="28" align="center"/>&nbsp;&nbsp;Netra AI — Agentic RAG Chatbot</b></summary><br/>
 
 An agentic AI assistant built with **LangGraph**, **Groq**, **FAISS**, and **Streamlit**, covering four usecases: Basic Chatbot, Chatbot With Web (Tavily search), AI News, and Chat with PDF. Ships with full bcrypt-based auth and per-user conversation scoping, plus a second Chainlit UI with tool-call trace visibility and a custom dark theme.
 
