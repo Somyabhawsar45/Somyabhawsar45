@@ -1,146 +1,133 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Somya%20Bhawsar&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Building%20Agentic%20AI%20%26%20Full%20Stack%20Systems&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=190&section=header&text=Somya%20Bhawsar&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Agentic%20AI%20%7C%20Full%20Stack%20Engineering&descAlignY=55&descSize=17" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=600&height=50&lines=Full+Stack+Developer;Agentic+AI+%7C+LangGraph+%2F+RAG;Building+Netra+AI;Always+Learning%2C+Always+Shipping" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=560&height=45&lines=Building+Netra+AI+%E2%80%94+Agentic+RAG+Chatbot;LangGraph+%2F+Groq+%2F+FAISS;Full+Stack+%7C+MERN+%2B+Python;Shipping+real+systems%2C+not+demos" alt="Typing SVG" />
 
 <br/>
 
 ![Academic](https://img.shields.io/badge/E%26TC_Engineering-IET_DAVV_Indore-6D28D9?style=flat-square)
-![Location](https://img.shields.io/badge/📍-India-6D28D9?style=flat-square)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-6D28D9?style=flat-square&logo=googlechrome&logoColor=white)](#) <!-- ✏️ Add your portfolio link -->
+![Location](https://img.shields.io/badge/📍-Indore,_India-6D28D9?style=flat-square)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-6D28D9?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/somya-bhawsar-9230633a3/)
 [![Email](https://img.shields.io/badge/Email-Contact-6D28D9?style=flat-square&logo=gmail&logoColor=white)](mailto:somyabhawsar194@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-6D28D9?style=flat-square&logo=github&logoColor=white)](https://github.com/Somyabhawsar45)
+[![GitHub](https://img.shields.io/badge/GitHub-Somyabhawsar45-6D28D9?style=flat-square&logo=github&logoColor=white)](https://github.com/Somyabhawsar45)
 
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Somyabhawsar45&color=6D28D9&style=flat-square&label=Profile+Views)
 ![Followers](https://img.shields.io/github/followers/Somyabhawsar45?style=flat-square&color=6D28D9&label=Followers)
-![Stars](https://img.shields.io/github/stars/Somyabhawsar45?style=flat-square&color=6D28D9&label=Stars)
 
 </div>
 
 <br/>
 
-## About Me
+## About
 
-I'm a developer focused on **agentic AI systems** and full stack web development. My recent work centers on building **Netra AI**, a deployed agentic RAG chatbot using LangGraph, Groq, and FAISS — covering everything from stateful graph orchestration to retrieval pipelines for document-based Q&A. I enjoy working across the stack, from designing conversational AI architectures to shipping polished front-end interfaces, with a product engineering mindset focused on real, deployed systems rather than toy demos.
+Final-year E&TC Engineering student building **agentic AI systems** and full stack web apps, currently prepping for SDE placements. My flagship project is **Netra AI** — a deployed agentic RAG chatbot built on LangGraph, Groq, and FAISS, with per-user auth, cross-session memory, and four distinct usecases. I like shipping things that are actually deployed and used, not toy demos.
 
-- 🔭 Currently building and refining **Netra AI** — an agentic RAG chatbot with persistent memory
-- 🧠 Exploring LangGraph, ReAct patterns, and multi-agent orchestration
-- 🌐 Comfortable across Python and JavaScript ecosystems
-- 📫 Reach me at **somyabhawsar194@gmail.com**
-
-**Open To:**
-```
-Software Engineering Roles · AI/ML Engineering · Full Stack Development · Open Source Collaboration
-```
+- 🔭 Building **Netra AI** — agentic RAG chatbot, live on Streamlit Community Cloud, plus a Chainlit interface
+- 🎓 Also running **Schlor**, a full EdTech platform (MERN), deployed on Vercel + Render
+- 🧠 Exploring multi-agent orchestration, ReAct patterns, and RAG evaluation
+- 🎯 Actively interviewing for SDE roles — DSA, systems design, and full stack
+- 📫 **somyabhawsar194@gmail.com**
 
 <br/>
 
 ## Tech Stack
 
-**Languages**
+<div align="center">
 
-![Python](https://skillicons.dev/icons?i=python)
-![JavaScript](https://skillicons.dev/icons?i=js)
+**Languages & Core**
+<br/>
+![Python](https://skillicons.dev/icons?i=python) ![JavaScript](https://skillicons.dev/icons?i=js) ![C++](https://skillicons.dev/icons?i=cpp)
 
 **Frontend**
+<br/>
+![React](https://skillicons.dev/icons?i=react) ![Tailwind](https://skillicons.dev/icons?i=tailwind) ![HTML5](https://skillicons.dev/icons?i=html) ![CSS3](https://skillicons.dev/icons?i=css)
 
-![HTML5](https://skillicons.dev/icons?i=html)
-![CSS3](https://skillicons.dev/icons?i=css)
-![JavaScript](https://skillicons.dev/icons?i=js)
-![React](https://skillicons.dev/icons?i=react) <!-- ✏️ Remove if not used -->
+**Backend & Data**
+<br/>
+![Node](https://skillicons.dev/icons?i=nodejs) ![Express](https://skillicons.dev/icons?i=express) ![FastAPI](https://skillicons.dev/icons?i=fastapi) ![MongoDB](https://skillicons.dev/icons?i=mongodb) ![SQLite](https://skillicons.dev/icons?i=sqlite) ![Redis](https://skillicons.dev/icons?i=redis)
 
-**Backend & Databases**
-
-![Python](https://skillicons.dev/icons?i=python)
-![SQLite](https://skillicons.dev/icons?i=sqlite)
-
-**AI / ML & Agentic Frameworks**
-
+**AI / Agentic**
+<br/>
 ![LangChain](https://skillicons.dev/icons?i=langchain)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge)
 ![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge)
 
-**Cloud, DevOps & Tooling**
+**Tooling**
+<br/>
+![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![VSCode](https://skillicons.dev/icons?i=vscode) ![Postman](https://skillicons.dev/icons?i=postman)
 
-![Git](https://skillicons.dev/icons?i=git)
-![GitHub](https://skillicons.dev/icons?i=github)
-![VSCode](https://skillicons.dev/icons?i=vscode)
-<!-- ✏️ Add cloud/deployment tools you actually use, e.g. AWS, Docker, Vercel -->
+</div>
 
 <br/>
 
 ## AI / ML Expertise
 
-| Domain | Proficiency | Details |
+| Domain | Level | Details |
 |---|---|---|
-| **Agentic Orchestration** | Intermediate–Advanced | LangGraph stateful graphs, ReAct patterns, multi-turn conversation flows |
-| **Retrieval-Augmented Generation** | Intermediate–Advanced | FAISS vector search, `sentence-transformers/all-MiniLM-L6-v2` embeddings, per-session indexing |
-| **LLM Integration** | Intermediate | Groq API for low-latency inference, prompt/persona design via SystemMessage |
-| **Deployment** | Intermediate | Streamlit app deployment, SQLite-backed persistent state | <!-- ✏️ Add more rows as your skills grow -->
+| **Agentic Orchestration** | Intermediate–Advanced | LangGraph stateful graphs, ReAct patterns, multi-turn flows across 4 usecases |
+| **Retrieval-Augmented Generation** | Intermediate–Advanced | FAISS vector search, `all-MiniLM-L6-v2` embeddings, per-conversation indexing, PDF RAG |
+| **LLM Integration** | Intermediate | Groq API for low-latency inference, persona/system-prompt design, streaming responses |
+| **Backend for AI** | Intermediate | FastAPI REST layer (`/chat`, `/search`, `/rag`), SQLite-backed cross-session memory, bcrypt auth |
+| **Deployment** | Intermediate | Streamlit Community Cloud, Chainlit UI, Render/Vercel full stack deploys |
 
 <br/>
 
 ## Featured Projects
 
 <details open>
-<summary><b>🤖 Agentic-Chatbot (Netra AI)</b></summary>
+<summary><b>🧠 Netra AI — Agentic RAG Chatbot</b></summary>
 <br/>
 
-An agentic RAG chatbot built with **LangGraph**, **Groq**, **FAISS**, and **Streamlit**, supporting four use cases: Basic Chatbot, Chatbot With Web, AI News, and Chat with PDF.
+An agentic AI assistant built with **LangGraph**, **Groq**, **FAISS**, and **Streamlit**, covering four usecases: Basic Chatbot, Chatbot With Web (Tavily search), AI News, and Chat with PDF. Ships with full bcrypt-based auth and per-user conversation scoping, plus a second Chainlit UI with tool-call trace visibility and a custom dark theme.
 
 | Aspect | Details |
 |---|---|
-| **Stack** | LangGraph · Groq · FAISS · Streamlit · SQLite |
-| **Scale** | 4 distinct use-case pipelines, per-conversation FAISS indexing |
-| **Performance** | Groq inference for low-latency responses |
-| **Security** | Session-isolated vector indices; no cross-conversation data leakage |
-| **Impact** | Cross-session memory — full conversation history persisted and injected into `graph.stream()` / `graph.invoke()` |
+| **Stack** | LangGraph · Groq · Tavily · FAISS · FastAPI · Streamlit · Chainlit · SQLite |
+| **Architecture** | Stateful LangGraph orchestration, FastAPI REST layer (`/api/v1/chat`, `/api/v1/search`, `/api/v1/rag`), streaming responses |
+| **Retrieval** | Per-conversation FAISS indexing with `sentence-transformers/all-MiniLM-L6-v2`, PDF-based Q&A |
+| **Auth & Security** | bcrypt password hashing, per-user conversation scoping, session-isolated vector indices |
+| **Memory** | SQLite-persisted chat history injected directly into `graph.stream()` / `graph.invoke()` — conversations survive across sessions |
+| **Live** | [netra-agentic-ai.streamlit.app](https://netra-agentic-ai.streamlit.app) |
 | **Repository** | [github.com/Somyabhawsar45/Agentic-Chatbot](https://github.com/Somyabhawsar45/Agentic-Chatbot) |
 
-Built with a focus on solving a real limitation in most chatbot demos — that context and memory reset between sessions. Netra AI persists chat history to SQLite and injects it directly into LLM context, so conversations remain coherent across sessions rather than resetting each time.
-
 </details>
 
 <details>
-<summary><b>📰 Newzapp</b></summary>
+<summary><b>🎓 Schlor — EdTech Platform</b></summary>
 <br/>
 
-*A JavaScript-based news application.* <!-- ✏️ Replace with your real description -->
+A full-featured EdTech platform for course creation, purchase, and delivery — built MERN-stack with a production-grade backend: CI pipeline, integration tests, and real payment/email infra rather than stubbed services.
 
 | Aspect | Details |
 |---|---|
-| **Stack** | JavaScript |
-| **Scale** | — <!-- ✏️ Fill in -->
-| **Performance** | — <!-- ✏️ Fill in -->
-| **Security** | — <!-- ✏️ Fill in -->
-| **Impact** | — <!-- ✏️ Fill in -->
-| **Repository** | [github.com/Somyabhawsar45/Newzapp](https://github.com/Somyabhawsar45/Newzapp) |
-
-<!-- ✏️ Add a 1-2 sentence professional explanation of the project here -->
-
-</details>
-
-<details>
-<summary><b>🎓 Schlor</b></summary>
-<br/>
-
-*A JavaScript-based project.* <!-- ✏️ Replace with your real description -->
-
-| Aspect | Details |
-|---|---|
-| **Stack** | JavaScript |
-| **Scale** | — <!-- ✏️ Fill in -->
-| **Performance** | — <!-- ✏️ Fill in -->
-| **Security** | — <!-- ✏️ Fill in -->
-| **Impact** | — <!-- ✏️ Fill in -->
+| **Stack** | React · Node.js · Express · MongoDB · Razorpay · Brevo (email API) |
+| **Testing & CI** | 19 Jest/Supertest integration tests, GitHub Actions CI pipeline |
+| **Payments** | Razorpay integration for course purchases |
+| **Email** | Brevo HTTP REST API for OTP delivery (swapped off SMTP after Render's free tier blocked it) |
+| **Access Control** | RBAC middleware for student/instructor roles |
+| **Live** | [schlor.vercel.app](https://schlor.vercel.app) · API: [schlor-backend.onrender.com](https://schlor-backend.onrender.com) |
 | **Repository** | [github.com/Somyabhawsar45/Schlor](https://github.com/Somyabhawsar45/Schlor) |
 
-<!-- ✏️ Add a 1-2 sentence professional explanation of the project here -->
+</details>
+
+<details>
+<summary><b>📰 NewsSync — AI-Enhanced News App</b></summary>
+<br/>
+
+A news aggregation app with AI-generated perspectives and article Q&A, layered on top of a caching and recommendation pipeline.
+
+| Aspect | Details |
+|---|---|
+| **Stack** | JavaScript · GNews API · Redis (Upstash) · Groq (LLaMA) · FastAPI |
+| **AI Features** | Groq-powered perspective generation on articles, conversational article Q&A |
+| **Performance** | Redis caching via Upstash to cut redundant API calls |
+| **Recommendations** | FastAPI microservice running a TF-IDF based recommender |
+| **Repository** | [github.com/Somyabhawsar45/Newzapp](https://github.com/Somyabhawsar45/Newzapp) |
 
 </details>
 
@@ -148,29 +135,19 @@ Built with a focus on solving a real limitation in most chatbot demos — that c
 
 ## Experience
 
-<!-- ✏️ Placeholder — fill in with real internship/job details, or remove this section entirely if not applicable yet -->
-
-**[Job Title]** · [Company Name]
-`[Start Date] – [End Date]`
-
-[Professional description of the role]
-
-- [Scope of work bullet 1]
-- [Scope of work bullet 2]
-- [Scope of work bullet 3]
-
-`Skills:` ![Tag](https://img.shields.io/badge/-Tag-333?style=flat-square)
+<!-- ✏️ Placeholder — add real internship/job details here once available -->
+_No professional experience listed yet — actively interviewing for SDE roles._
 
 <br/>
 
 ## Achievements
 
+<!-- ✏️ Add real achievements here as they happen (no fabricated entries) -->
 <div align="center">
 
 | Recognition | Details |
 |---|---|
-| [Achievement 1] | [Details] | <!-- ✏️ Fill in real achievements -->
-| [Achievement 2] | [Details] |
+| _Add here_ | _e.g. hackathon results, OA clears, contest ranks_ |
 
 </div>
 
@@ -178,33 +155,16 @@ Built with a focus on solving a real limitation in most chatbot demos — that c
 
 ## Certifications
 
-<!-- ✏️ Add real certifications grouped by provider; remove providers you have none from -->
-
-**AWS**
-
-![AWS Badge Placeholder](https://img.shields.io/badge/-Add_Certification-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-
-**Oracle**
-
-![Oracle Badge Placeholder](https://img.shields.io/badge/-Add_Certification-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-
-**NPTEL**
-
-![NPTEL Badge Placeholder](https://img.shields.io/badge/-Add_Certification-0056A6?style=for-the-badge)
-
-**Cisco**
-
-![Cisco Badge Placeholder](https://img.shields.io/badge/-Add_Certification-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+<!-- ✏️ Add real certs — remove providers you have none from -->
+_None added yet._
 
 <br/>
 
 ## Coding Profiles
 
-<!-- ✏️ Replace # with your real profile URLs once available -->
-
+<!-- ✏️ Replace # with your real profile URLs -->
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](#)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](#)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](#)
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](#)
 
 <br/>
@@ -245,17 +205,15 @@ Built with a focus on solving a real limitation in most chatbot demos — that c
   <img alt="snake animation" src="https://raw.githubusercontent.com/Somyabhawsar45/Somyabhawsar45/output/github-contribution-grid-snake.svg">
 </picture>
 
-<!-- ✏️ This requires a one-time GitHub Actions setup — see note below the file -->
-
 <br/>
 
 ## Current Focus
 
 ```yaml
-learning:   ["Multi-agent orchestration", "Advanced RAG patterns"]
-building:   ["Netra AI - agentic RAG chatbot"]
-exploring:  ["LangGraph ReAct patterns", "Vector search optimization"]
-open_to:    ["Software Engineering roles", "AI/ML collaborations"]
+learning:   ["Multi-agent orchestration", "RAG evaluation metrics", "System design for SDE interviews"]
+building:   ["Netra AI (agentic RAG chatbot)", "Schlor (EdTech platform)"]
+exploring:  ["LangGraph ReAct patterns", "Vector search optimization", "Advanced DSA (DP, concurrency)"]
+open_to:    ["SDE / Software Engineering roles", "AI-ML Engineering roles", "Open source collaboration"]
 ```
 
 <br/>
@@ -265,7 +223,6 @@ open_to:    ["Software Engineering roles", "AI/ML collaborations"]
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:somyabhawsar194@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/somya-bhawsar-9230633a3/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Somyabhawsar45)
-[![Portfolio](https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=googlechrome&logoColor=white)](#) <!-- ✏️ Add your portfolio link -->
 
 <br/>
 
@@ -273,6 +230,6 @@ open_to:    ["Software Engineering roles", "AI/ML collaborations"]
 
 *"Building thoughtful systems, one commit at a time."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=90&section=footer" width="100%"/>
 
 </div>
