@@ -106,10 +106,10 @@ An agentic RAG chatbot built with **LangGraph**, **Groq**, **FAISS**, and **Stre
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Somyabhawsar45&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Somyabhawsar45&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA" width="48%"/>
+<img src="https://github-readme-stats-fast-nine.vercel.app/api?username=Somyabhawsar45&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA" width="48%"/>
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=Somyabhawsar45&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA" width="48%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Somyabhawsar45&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA" width="48%"/>
+<img src="https://github-readme-stats-fast-nine.vercel.app/api/top-langs/?username=Somyabhawsar45&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA" width="48%"/>
 
 </div>
 
