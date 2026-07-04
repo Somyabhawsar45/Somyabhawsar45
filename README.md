@@ -33,44 +33,45 @@ Final-year E&TC Engineering student building agentic AI systems and full stack w
 <div align="center">
 
 **Languages & Core**
-<br/><br/>
+<br/>
+<br/>
 ![Python](https://skillicons.dev/icons?i=python) ![JavaScript](https://skillicons.dev/icons?i=js) ![C++](https://skillicons.dev/icons?i=cpp)
-
 <br/>
 
 **Frontend**
-<br/><br/>
+<br/>
+<br/>
 ![React](https://skillicons.dev/icons?i=react) ![Tailwind](https://skillicons.dev/icons?i=tailwind) ![HTML5](https://skillicons.dev/icons?i=html) ![CSS3](https://skillicons.dev/icons?i=css)
-
 <br/>
 
 **Backend & Data**
-<br/><br/>
+<br/>
+<br/>
 ![Node](https://skillicons.dev/icons?i=nodejs) ![Express](https://skillicons.dev/icons?i=express) ![FastAPI](https://skillicons.dev/icons?i=fastapi) ![MongoDB](https://skillicons.dev/icons?i=mongodb) ![SQLite](https://skillicons.dev/icons?i=sqlite) ![Redis](https://skillicons.dev/icons?i=redis)
-
 <br/>
 
 **AI / Agentic**
-<br/><br/>
+<br/>
+<br/>
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1E3A8A?style=for-the-badge)
 ![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge)
 ![FAISS](https://img.shields.io/badge/FAISS-1E3A8A?style=for-the-badge)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Tavily](https://img.shields.io/badge/Tavily-1E3A8A?style=for-the-badge)
-
 <br/>
 
 **Payments & Deployment**
-<br/><br/>
+<br/>
+<br/>
 ![Razorpay](https://img.shields.io/badge/Razorpay-0C2451?style=for-the-badge&logo=razorpay&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-1E3A8A?style=for-the-badge&logo=render&logoColor=white)
-
 <br/>
 
 **Tooling**
-<br/><br/>
+<br/>
+<br/>
 ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![VSCode](https://skillicons.dev/icons?i=vscode) ![Postman](https://skillicons.dev/icons?i=postman)
 
 </div>
