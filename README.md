@@ -1,19 +1,17 @@
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:0F172A&height=190&section=header&text=Somya%20Bhawsar&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Shipping%20real%20systems,%20not%20demos&descAlignY=55&descSize=17" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=60A5FA&center=true&vCenter=true&width=650&height=45&lines=Full+Stack+Developer;LangGraph+%2F+Groq+%2F+FAISS;MERN+%2B+Python;Shipping+real+systems%2C+not+demos" alt="Typing SVG" />
 
 <br/>
 
-![Academic](https://img.shields.io/badge/E%26TC_Engineering-IET_DAVV_Indore-1E3A8A?style=flat-square)
-![Location](https://img.shields.io/badge/📍-Indore,_India-1E3A8A?style=flat-square)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-1E3A8A?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/somya-bhawsar-9230633a3/)
-[![Email](https://img.shields.io/badge/Email-Contact-1E3A8A?style=flat-square&logo=gmail&logoColor=white)](mailto:somyabhawsar194@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Somyabhawsar45-1E3A8A?style=flat-square&logo=github&logoColor=white)](https://github.com/Somyabhawsar45)
+**Full Stack Developer &nbsp;·&nbsp; Agentic AI (LangGraph / Groq / FAISS) &nbsp;·&nbsp; MERN**
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1E3A8A?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/somya-bhawsar-9230633a3/)
+[![Gmail](https://img.shields.io/badge/Gmail-1E3A8A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:somyabhawsar194@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-1E3A8A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Somyabhawsar45)
 
 </div>
-
 <br/>
 
 ## About
@@ -24,7 +22,6 @@ Final-year E&TC Engineering student building agentic AI systems and full stack w
 - 🎓 Shipped **Schlor**, a full MERN EdTech platform with real payments, CI, and RBAC
 - 📰 Built **NewsSync**, a news app with AI-generated perspectives and a TF-IDF recommender
 - ⚙️ Comfortable across the stack — React/Tailwind on the frontend, Node/FastAPI on the backend
-- 🔍 Exploring multi-agent orchestration, ReAct patterns, and RAG evaluation
 - 🎯 Actively interviewing for SDE roles — strong in DSA, systems fundamentals, and full stack delivery
 
 📫 **somyabhawsar194@gmail.com**
@@ -63,13 +60,12 @@ Final-year E&TC Engineering student building agentic AI systems and full stack w
 
 <br/>
 
-## AI / ML Expertise
+## What I Work With
 
-- **Agentic Orchestration** — Stateful LangGraph pipelines across 4 usecases, each with its own graph and tool routing
-- **RAG** — Per-conversation FAISS indexing with `all-MiniLM-L6-v2` embeddings; PDF ingestion → chunking → retrieval → grounded answers
-- **LLM Integration** — Groq for low-latency inference, persona/system-prompt design, token streaming to the UI
-- **AI-Backed Infra** — FastAPI layer in front of the agent graph, bcrypt auth with per-user scoping, SQLite cross-session memory
-- **Applied ML** — TF-IDF recommender and Groq-driven content generation shipped in a live app, not a notebook
+- **Agentic Systems** — Designing multi-step, tool-using AI workflows with stateful orchestration and conditional routing
+- **RAG Pipelines** — Building retrieval systems end-to-end, from embedding generation to grounded, source-backed responses
+- **LLM Integration** — Working with inference APIs for low-latency responses, prompt/persona design, and streaming output
+- **Applied ML** — Shipping recommendation engines and content-generation features in live products, not just notebooks
 
 <br/>
 
@@ -131,26 +127,9 @@ A news aggregation app with AI-generated perspectives and article Q&A, layered o
 
 <br/>
 
-## Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Somyabhawsar45/Somyabhawsar45/output/github-contribution-grid-snake-dark.svg">
-  <img alt="snake animation" src="https://raw.githubusercontent.com/Somyabhawsar45/Somyabhawsar45/output/github-contribution-grid-snake.svg">
-</picture>
-
-<br/>
-
 <div align="center">
 
-### Let's build something
-
-<a href="mailto:somyabhawsar194@gmail.com"><img src="https://img.shields.io/badge/Email-somyabhawsar194%40gmail.com-1E3A8A?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0F172A"/></a>
-<a href="https://www.linkedin.com/in/somya-bhawsar-9230633a3/"><img src="https://img.shields.io/badge/LinkedIn-Somya_Bhawsar-1E3A8A?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0F172A"/></a>
-<a href="https://github.com/Somyabhawsar45"><img src="https://img.shields.io/badge/GitHub-Somyabhawsar45-1E3A8A?style=for-the-badge&logo=github&logoColor=white&labelColor=0F172A"/></a>
-
-<br/><br/>
-
-*Building thoughtful systems, one commit at a time.*
+*Thanks for stopping by — let's build something together.*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:0F172A&height=100&section=footer" width="100%"/>
 
