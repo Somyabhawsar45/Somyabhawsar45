@@ -1,16 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:134E4A,100:0F172A&height=190&section=header&text=Somya%20Bhawsar&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Shipping%20real%20systems,%20not%20demos&descAlignY=55&descSize=17" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:0F172A&height=190&section=header&text=Somya%20Bhawsar&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Shipping%20real%20systems,%20not%20demos&descAlignY=55&descSize=17" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=5EEAD4&center=true&vCenter=true&width=560&height=45&lines=Full+Stack+Developer;LangGraph+%2F+Groq+%2F+FAISS;MERN+%2B+Python;Shipping+real+systems%2C+not+demos" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=60A5FA&center=true&vCenter=true&width=650&height=45&lines=Full+Stack+Developer;LangGraph+%2F+Groq+%2F+FAISS;MERN+%2B+Python;Shipping+real+systems%2C+not+demos" alt="Typing SVG" />
 
 <br/>
 
-![Academic](https://img.shields.io/badge/E%26TC_Engineering-IET_DAVV_Indore-134E4A?style=flat-square)
-![Location](https://img.shields.io/badge/📍-Indore,_India-134E4A?style=flat-square)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-134E4A?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/somya-bhawsar-9230633a3/)
-[![Email](https://img.shields.io/badge/Email-Contact-134E4A?style=flat-square&logo=gmail&logoColor=white)](mailto:somyabhawsar194@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Somyabhawsar45-134E4A?style=flat-square&logo=github&logoColor=white)](https://github.com/Somyabhawsar45)
+![Academic](https://img.shields.io/badge/E%26TC_Engineering-IET_DAVV_Indore-1E3A8A?style=flat-square)
+![Location](https://img.shields.io/badge/📍-Indore,_India-1E3A8A?style=flat-square)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-1E3A8A?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/somya-bhawsar-9230633a3/)
+[![Email](https://img.shields.io/badge/Email-Contact-1E3A8A?style=flat-square&logo=gmail&logoColor=white)](mailto:somyabhawsar194@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Somyabhawsar45-1E3A8A?style=flat-square&logo=github&logoColor=white)](https://github.com/Somyabhawsar45)
 
 </div>
 
@@ -18,11 +18,16 @@
 
 ## About
 
-Final-year E&TC Engineering student building **agentic AI systems** and full stack web apps, currently prepping for SDE placements. I've shipped three deployed projects: **Netra AI**, an agentic RAG chatbot on LangGraph, Groq, and FAISS with per-user auth and cross-session memory; **Schlor**, a full MERN EdTech platform with real payments and CI; and **NewsSync**, a news app with AI-generated perspectives and a TF-IDF recommender. I like building things that are actually deployed and used, not toy demos.
+Final-year E&TC Engineering student building agentic AI systems and full stack web apps, currently prepping for SDE placements. I care more about shipping deployed, working software than portfolio filler — every project below is live, not a local demo.
 
-- 🧠 Exploring multi-agent orchestration, ReAct patterns, and RAG evaluation
-- 🎯 Actively interviewing for SDE roles — DSA and full stack
-- 📫 **somyabhawsar194@gmail.com**
+- 🧠 Built **Netra AI**, an agentic RAG chatbot on LangGraph, Groq, and FAISS with per-user auth and cross-session memory
+- 🎓 Shipped **Schlor**, a full MERN EdTech platform with real payments, CI, and RBAC
+- 📰 Built **NewsSync**, a news app with AI-generated perspectives and a TF-IDF recommender
+- ⚙️ Comfortable across the stack — React/Tailwind on the frontend, Node/FastAPI on the backend
+- 🔍 Exploring multi-agent orchestration, ReAct patterns, and RAG evaluation
+- 🎯 Actively interviewing for SDE roles — strong in DSA, systems fundamentals, and full stack delivery
+
+📫 **somyabhawsar194@gmail.com**
 
 <br/>
 
@@ -46,9 +51,9 @@ Final-year E&TC Engineering student building **agentic AI systems** and full sta
 <br/>
 ![LangChain](https://skillicons.dev/icons?i=langchain)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-134E4A?style=for-the-badge)
+![FAISS](https://img.shields.io/badge/FAISS-1E3A8A?style=for-the-badge)
 ![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge)
-![LangGraph](https://img.shields.io/badge/LangGraph-134E4A?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-1E3A8A?style=for-the-badge)
 
 **Tooling**
 <br/>
@@ -139,14 +144,14 @@ A news aggregation app with AI-generated perspectives and article Q&A, layered o
 
 ### Let's build something
 
-<a href="mailto:somyabhawsar194@gmail.com"><img src="https://img.shields.io/badge/Email-somyabhawsar194%40gmail.com-134E4A?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0F172A"/></a>
-<a href="https://www.linkedin.com/in/somya-bhawsar-9230633a3/"><img src="https://img.shields.io/badge/LinkedIn-Somya_Bhawsar-134E4A?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0F172A"/></a>
-<a href="https://github.com/Somyabhawsar45"><img src="https://img.shields.io/badge/GitHub-Somyabhawsar45-134E4A?style=for-the-badge&logo=github&logoColor=white&labelColor=0F172A"/></a>
+<a href="mailto:somyabhawsar194@gmail.com"><img src="https://img.shields.io/badge/Email-somyabhawsar194%40gmail.com-1E3A8A?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0F172A"/></a>
+<a href="https://www.linkedin.com/in/somya-bhawsar-9230633a3/"><img src="https://img.shields.io/badge/LinkedIn-Somya_Bhawsar-1E3A8A?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0F172A"/></a>
+<a href="https://github.com/Somyabhawsar45"><img src="https://img.shields.io/badge/GitHub-Somyabhawsar45-1E3A8A?style=for-the-badge&logo=github&logoColor=white&labelColor=0F172A"/></a>
 
 <br/><br/>
 
 *Building thoughtful systems, one commit at a time.*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:134E4A,100:0F172A&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:0F172A&height=100&section=footer" width="100%"/>
 
 </div>
