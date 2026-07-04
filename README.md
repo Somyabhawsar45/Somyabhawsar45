@@ -1,21 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F2937,100:111827&height=190&section=header&text=Somya%20Bhawsar&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Shipping%20real%20systems,%20not%20demos&descAlignY=55&descSize=17" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:134E4A,100:0F172A&height=190&section=header&text=Somya%20Bhawsar&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Shipping%20real%20systems,%20not%20demos&descAlignY=55&descSize=17" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=94A3B8&center=true&vCenter=true&width=560&height=45&lines=Building+Netra+AI+%E2%80%94+Agentic+RAG+Chatbot;LangGraph+%2F+Groq+%2F+FAISS;Full+Stack+%7C+MERN+%2B+Python;Shipping+real+systems%2C+not+demos" alt="Typing SVG" />
-
-<br/>
-
-![Academic](https://img.shields.io/badge/E%26TC_Engineering-IET_DAVV_Indore-374151?style=flat-square)
-![Location](https://img.shields.io/badge/📍-Indore,_India-374151?style=flat-square)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-374151?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/somya-bhawsar-9230633a3/)
-[![Email](https://img.shields.io/badge/Email-Contact-374151?style=flat-square&logo=gmail&logoColor=white)](mailto:somyabhawsar194@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Somyabhawsar45-374151?style=flat-square&logo=github&logoColor=white)](https://github.com/Somyabhawsar45)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=5EEAD4&center=true&vCenter=true&width=560&height=45&lines=Full+Stack+Developer;LangGraph+%2F+Groq+%2F+FAISS;MERN+%2B+Python;Shipping+real+systems%2C+not+demos" alt="Typing SVG" />
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Somyabhawsar45&color=374151&style=flat-square&label=Profile+Views)
-![Followers](https://img.shields.io/github/followers/Somyabhawsar45?style=flat-square&color=374151&label=Followers)
+![Academic](https://img.shields.io/badge/E%26TC_Engineering-IET_DAVV_Indore-134E4A?style=flat-square)
+![Location](https://img.shields.io/badge/📍-Indore,_India-134E4A?style=flat-square)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-134E4A?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/somya-bhawsar-9230633a3/)
+[![Email](https://img.shields.io/badge/Email-Contact-134E4A?style=flat-square&logo=gmail&logoColor=white)](mailto:somyabhawsar194@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Somyabhawsar45-134E4A?style=flat-square&logo=github&logoColor=white)](https://github.com/Somyabhawsar45)
 
 </div>
 
@@ -23,10 +18,8 @@
 
 ## About
 
-Final-year E&TC Engineering student building **agentic AI systems** and full stack web apps, currently prepping for SDE placements. My flagship project is **Netra AI** — a deployed agentic RAG chatbot built on LangGraph, Groq, and FAISS, with per-user auth, cross-session memory, and four distinct usecases. I like shipping things that are actually deployed and used, not toy demos.
+Final-year E&TC Engineering student building **agentic AI systems** and full stack web apps, currently prepping for SDE placements. I've shipped three deployed projects: **Netra AI**, an agentic RAG chatbot on LangGraph, Groq, and FAISS with per-user auth and cross-session memory; **Schlor**, a full MERN EdTech platform with real payments and CI; and **NewsSync**, a news app with AI-generated perspectives and a TF-IDF recommender. I like building things that are actually deployed and used, not toy demos.
 
-- 🔭 Building **Netra AI** — agentic RAG chatbot, live on Streamlit Community Cloud, plus a Chainlit interface
-- 🎓 Also running **Schlor**, a full EdTech platform (MERN), deployed on Vercel + Render
 - 🧠 Exploring multi-agent orchestration, ReAct patterns, and RAG evaluation
 - 🎯 Actively interviewing for SDE roles — DSA and full stack
 - 📫 **somyabhawsar194@gmail.com**
@@ -53,9 +46,9 @@ Final-year E&TC Engineering student building **agentic AI systems** and full sta
 <br/>
 ![LangChain](https://skillicons.dev/icons?i=langchain)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-374151?style=for-the-badge)
+![FAISS](https://img.shields.io/badge/FAISS-134E4A?style=for-the-badge)
 ![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-134E4A?style=for-the-badge)
 
 **Tooling**
 <br/>
@@ -67,14 +60,11 @@ Final-year E&TC Engineering student building **agentic AI systems** and full sta
 
 ## AI / ML Expertise
 
-| Domain | Level | What I've actually built |
-|---|---|---|
-| **Agentic Orchestration** | Intermediate–Advanced | Designed stateful LangGraph pipelines across 4 distinct usecases (chat, web search, news, PDF), each with its own graph and tool routing |
-| **Retrieval-Augmented Generation** | Intermediate–Advanced | Built per-conversation FAISS indexing with `all-MiniLM-L6-v2` embeddings; PDF ingestion → chunking → retrieval → grounded answers |
-| **LLM Integration** | Intermediate | Wired Groq for low-latency inference, wrote persona/system-prompt logic, implemented token streaming to the UI |
-| **AI-Backed Infra** | Intermediate | FastAPI REST layer (`/chat`, `/search`, `/rag`) in front of the agent graph, bcrypt auth with per-user conversation scoping, SQLite for cross-session memory |
-| **Applied ML (web)** | Intermediate | TF-IDF based recommender service (NewsSync) and Groq-driven content generation (perspective summaries, Q&A) layered onto a live app |
-| **Deployment** | Intermediate | Shipped and maintained on Streamlit Community Cloud, Chainlit, and Render/Vercel — not just local notebooks |
+- **Agentic Orchestration** — Stateful LangGraph pipelines across 4 usecases, each with its own graph and tool routing
+- **RAG** — Per-conversation FAISS indexing with `all-MiniLM-L6-v2` embeddings; PDF ingestion → chunking → retrieval → grounded answers
+- **LLM Integration** — Groq for low-latency inference, persona/system-prompt design, token streaming to the UI
+- **AI-Backed Infra** — FastAPI layer in front of the agent graph, bcrypt auth with per-user scoping, SQLite cross-session memory
+- **Applied ML** — TF-IDF recommender and Groq-driven content generation shipped in a live app, not a notebook
 
 <br/>
 
@@ -130,32 +120,9 @@ A news aggregation app with AI-generated perspectives and article Q&A, layered o
 
 **Stack:** JavaScript · GNews API · Redis (Upstash) · Groq · FastAPI
 
-**Repo:** [Newzapp](https://github.com/Somyabhawsar45/Newzapp)
+**Live:** [newzapp-nine.vercel.app](https://newzapp-nine.vercel.app/) · **Repo:** [Newzapp](https://github.com/Somyabhawsar45/Newzapp)
 
 </details>
-
-<br/>
-
-## Current Focus
-
-```yaml
-right_now:
-  - Interview prep: DSA (DP, binary search, backtracking, concurrency in C++)
-  - Core CS: OOP, DBMS, OS, CN — exam-ready depth
-  - Polishing Netra AI: dedup display_result.py, adding a test suite
-
-building:
-  - Netra AI — deepening RAG eval and multi-agent patterns
-  - Schlor — production hardening, RBAC and CI coverage
-
-next_up:
-  - RAG evaluation metrics for Netra AI
-  - Demo GIFs and portfolio-ready docs for both projects
-
-open_to:
-  - SDE / Software Engineering roles
-  - AI-ML Engineering roles
-```
 
 <br/>
 
@@ -168,18 +135,18 @@ open_to:
 
 <br/>
 
-## Connect
-
-[![Gmail](https://img.shields.io/badge/Gmail-374151?style=for-the-badge&logo=gmail&logoColor=white)](mailto:somyabhawsar194@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-374151?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/somya-bhawsar-9230633a3/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Somyabhawsar45)
-
-<br/>
-
 <div align="center">
 
-*"Building thoughtful systems, one commit at a time."*
+### Let's build something
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F2937,100:111827&height=90&section=footer" width="100%"/>
+<a href="mailto:somyabhawsar194@gmail.com"><img src="https://img.shields.io/badge/Email-somyabhawsar194%40gmail.com-134E4A?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0F172A"/></a>
+<a href="https://www.linkedin.com/in/somya-bhawsar-9230633a3/"><img src="https://img.shields.io/badge/LinkedIn-Somya_Bhawsar-134E4A?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0F172A"/></a>
+<a href="https://github.com/Somyabhawsar45"><img src="https://img.shields.io/badge/GitHub-Somyabhawsar45-134E4A?style=for-the-badge&logo=github&logoColor=white&labelColor=0F172A"/></a>
+
+<br/><br/>
+
+*Building thoughtful systems, one commit at a time.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:134E4A,100:0F172A&height=100&section=footer" width="100%"/>
 
 </div>
