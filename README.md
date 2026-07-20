@@ -19,7 +19,7 @@
 Final-year E&TC Engineering student building agentic AI systems and full stack web apps, currently prepping for SDE placements. I care more about shipping deployed, working software than portfolio filler — every project below is live, not a local demo.
 
 - 🧠 Built **Netra AI**, an agentic RAG chatbot on LangGraph, Groq, and FAISS with per-user auth and cross-session memory
-- 🎓 Shipped **Schlor**, a full MERN EdTech platform with real payments, CI, and RBAC
+- 🎓 Shipped **Scholr**, a full MERN EdTech platform with real payments, CI, and RBAC
 - 📰 Built **NewsSync**, a news app with AI-generated perspectives and a TF-IDF recommender
 - ⚙️ Comfortable across the stack — React/Tailwind on the frontend, Node/FastAPI on the backend
 - 🎯 Actively interviewing for SDE roles — strong in DSA, systems fundamentals, and full stack delivery
@@ -107,7 +107,7 @@ An agentic AI assistant built with **LangGraph**, **Groq**, **FAISS**, and **Str
 </details>
 
 <details>
-<summary><b>🎓 Schlor — EdTech Platform</b></summary>
+<summary><b>🎓 Scholr — EdTech Platform</b></summary>
 <br/>
 
 A full-featured EdTech platform for course creation, purchase, and delivery — built MERN-stack with production-grade backend practices rather than stubbed services.
