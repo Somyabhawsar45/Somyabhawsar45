@@ -88,61 +88,65 @@ Final-year E&TC Engineering student building agentic AI systems and full stack w
 
 ## Featured Projects
 
-<details open>
-<summary><b><img src="https://raw.githubusercontent.com/Somyabhawsar45/Somyabhawsar45/main/logo.png" width="28" align="center"/>&nbsp;&nbsp;Netra AI — Agentic RAG Chatbot</b></summary><br/>
-
-An agentic AI assistant built with **LangGraph**, **Groq**, **FAISS**, and **Streamlit**, covering four usecases: Basic Chatbot, Chatbot With Web (Tavily search), AI News, and Chat with PDF. Ships with full bcrypt-based auth and per-user conversation scoping, plus a second Chainlit UI with tool-call trace visibility and a custom dark theme.
-
-**Highlights**
-- Stateful LangGraph orchestration with a dedicated graph per usecase
-- FastAPI REST layer (`/api/v1/chat`, `/api/v1/search`, `/api/v1/rag`) with streaming responses
-- Per-conversation FAISS indexing (`sentence-transformers/all-MiniLM-L6-v2`) for PDF-based Q&A
-- bcrypt auth with session-isolated vector indices — no cross-user data leakage
-- SQLite-persisted chat history injected directly into `graph.stream()` / `graph.invoke()`, so conversations survive across sessions
-
-**Stack:** LangGraph · Groq · Tavily · FAISS · FastAPI · Streamlit · Chainlit · SQLite
-
-**Live:** [netra-agentic-ai.streamlit.app](https://netra-agentic-ai.streamlit.app) · **Repo:** [Agentic-Chatbot](https://github.com/Somyabhawsar45/Agentic-Chatbot)
-
-</details>
-
-<details>
-<summary><b>🎓 Scholr — EdTech Platform</b></summary>
 <br/>
+
+### 🧠 Netra AI — Agentic RAG Chatbot
+
+![LangGraph](https://img.shields.io/badge/LangGraph-1E3A8A?style=flat-square) ![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square) ![FAISS](https://img.shields.io/badge/FAISS-1E3A8A?style=flat-square) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) ![Chainlit](https://img.shields.io/badge/Chainlit-1E3A8A?style=flat-square) ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
+
+An agentic AI assistant built on **LangGraph's StateGraph**, with multi-step reasoning, tool-calling, and a modular graph architecture separating nodes, tools, RAG pipeline, and LLM state. Ships with full bcrypt-based auth and per-user conversation scoping, plus a second Chainlit UI with tool-call trace visibility and a custom dark theme.
+
+- Stateful LangGraph orchestration with multi-step reasoning and tool-calling, backed by a custom SQLite schema for persistent, user-scoped conversation memory
+- FastAPI REST layer (`/chat`, `/search`, `/rag`) — also consumed by Scholr's doubt-solving feature
+- FAISS-based RAG with HuggingFace embeddings for PDF Q&A, plus real-time web search via Tavily API
+- bcrypt-based auth with per-user isolated sessions — no cross-user data leakage
+- Multi-LLM backend support (Groq, OpenAI), using Groq for low-latency inference
+
+**🔗 Live:** [netra-agentic-ai.streamlit.app](https://netra-agentic-ai.streamlit.app) &nbsp;·&nbsp; **📦 Repo:** [Agentic-Chatbot](https://github.com/Somyabhawsar45/Agentic-Chatbot)
+
+<br/>
+
+---
+
+<br/>
+
+### 🎓 Scholr — EdTech Platform
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Node](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white) ![Razorpay](https://img.shields.io/badge/Razorpay-0C2451?style=flat-square&logo=razorpay&logoColor=white) ![Brevo](https://img.shields.io/badge/Brevo-1E3A8A?style=flat-square)
 
 A full-featured EdTech platform for course creation, purchase, and delivery — built MERN-stack with production-grade backend practices rather than stubbed services.
 
-**Highlights**
-- 19 Jest/Supertest integration tests running in a GitHub Actions CI pipeline
-- Razorpay integration for course payments
-- Brevo HTTP REST API for OTP email delivery (swapped off SMTP after Render's free tier blocked outbound SMTP)
-- RBAC middleware separating student/instructor permissions
+- Role-based access control (Student, Instructor, Admin) via JWT + bcrypt across 10+ RESTful APIs
+- Razorpay checkout secured with HMAC-SHA256 webhook verification — tamper-proof, validated by 19 Jest/Supertest integration tests in a GitHub Actions CI pipeline
+- Diagnosed a silent SMTP failure and migrated OTP delivery to Brevo's HTTP REST API
+- On-demand PDF certificate generation via Puppeteer with unique-ID verification
+- Admin analytics dashboard for platform-wide insights
+- AI-powered doubt-solving via Netra AI's RAG pipeline, integrated as a FastAPI microservice
+- Auto-generated course descriptions using Groq's LLM API (`gpt-oss-20b`)
 
-**Stack:** React · Node.js · Express · MongoDB · Razorpay · Brevo
-
-**Live:** [schlor.vercel.app](https://schlor.vercel.app) · API: [schlor-backend.onrender.com](https://schlor-backend.onrender.com) · **Repo:** [Schlor](https://github.com/Somyabhawsar45/Schlor)
-
-</details>
-
-<details>
-<summary><b>📰 NewsSync — AI-Enhanced News App</b></summary>
-<br/>
-
-A news aggregation app with AI-generated perspectives and article Q&A, layered on top of a caching and recommendation pipeline.
-
-**Highlights**
-- Groq (LLaMA) powered perspective generation and conversational Q&A on articles
-- Redis caching via Upstash to cut redundant API calls
-- FastAPI microservice running a TF-IDF based article recommender
-
-**Stack:** JavaScript · GNews API · Redis (Upstash) · Groq · FastAPI
-
-**Live:** [newzapp-nine.vercel.app](https://newzapp-nine.vercel.app/) · **Repo:** [Newzapp](https://github.com/Somyabhawsar45/Newzapp)
-
-</details>
+**🔗 Live:** [schlor.vercel.app](https://schlor.vercel.app) &nbsp;·&nbsp; **API:** [schlor-backend.onrender.com](https://schlor-backend.onrender.com) &nbsp;·&nbsp; **📦 Repo:** [Schlor](https://github.com/Somyabhawsar45/Schlor)
 
 <br/>
 
+---
+
+<br/>
+
+### 📰 NewsSync — AI-Enhanced News App
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Node](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+
+A full-stack news aggregator with AI-generated perspectives, article Q&A, and a recommendation pipeline — React frontend, Node.js/Express backend proxy, and a Python FastAPI TF-IDF recommendation engine, deployed across Vercel + Render.
+
+- "Ask the Article" Q&A and "Other Side" perspective generation using Groq AI, plus real-time summarization
+- Time-range Trending Dashboard for surfacing top stories
+- 6-hour TTL caching via Upstash Redis, with in-memory fallback and backup key rotation for GNews rate-limit handling
+- JWT auth with MongoDB-based bookmarking
+- Dark/light mode via CSS variable injection
+
+**🔗 Live:** [newzapp-nine.vercel.app](https://newzapp-nine.vercel.app/) &nbsp;·&nbsp; **📦 Repo:** [Newzapp](https://github.com/Somyabhawsar45/Newzapp)
+
+<br/>
 <div align="center">
 
 *Thanks for stopping by — let's build something together.*
